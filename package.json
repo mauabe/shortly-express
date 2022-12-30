@@ -42,7 +42,7 @@
     "braces": "^3.0.2",
     "chai": "^3.5.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "y18n": ">=4.0.1"
   },
   "babel": {
