@@ -23,7 +23,7 @@
     "bookshelf": "^1.0.1",
     "connect-memcached": "^1.0.0",
     "cookie-parser": "^1.4.3",
-    "ejs": "^2.4.1",
+    "ejs": "^3.1.7",
     "express": "^4.13.4",
     "express-partials": "^0.3.0",
     "express-session": "^1.13.0",
